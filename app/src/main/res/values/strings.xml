@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Studio Tutorial Part 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_header">Download</string>
+    <string name="download">Download Android Studio Here:- https://developer.android.com/sdk/index.html </string>
+    <string name="sdk_header">SDK Packages</string>
+    <string name="sdk">You Need The Follow SDK Packages!</string>
+    <string name="sdk_packages1">1.Android SDK Tools</string>
+    <string name="sdk_packages2">2.Android SDK Platform-Tools</string>
+    <string name="sdk_packages3">3.Android SDK Build-Tools</string>
+    <string name="sdk_packages4">4.Android Support Repository</string>
+    <string name="sdk_packages5">5.Android Support Library</string>
+    <string name="sdk_packages6">6.Google Repository</string>
+    <string name="sdk_packages7">7.Google Play Services</string>
+    <string name="requirements_header">Requirements</string>
+    <string name="requirements">You Need The Following Things For Developing An App</string>
+    <string name="requirement1">1.Knowledge About Java</string>
+    <string name="requirement2">2.Knowledge About XML Editing(Very Simple)</string>
+    <string name="requirement3">3.Know How All Activities And XML Are Connected To Each Other</string>
+</resources>
